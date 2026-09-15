@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "privacy": "Kebijakan Privasi",
+    "feedback": "Masukan"
+  },
+  "footer": {
+    "copyright": "© {year} Al-Nur Journey. Seluruh hak cipta dilindungi."
+  },
+  "home": {
+    "title": "Al-Nur Journey",
+    "tagline": "Teman Anda untuk membaca Al-Qur'an dan waktu shalat.",
+    "description": "Al-Nur Journey membantu Anda membaca Al-Qur'an, memantau waktu shalat, menemukan arah kiblat, menjelajahi doa-doa, dan terhubung dengan komunitas sesama Muslim — semuanya dalam satu aplikasi.",
+    "privacyCta": "Baca Kebijakan Privasi kami",
+    "feedbackCta": "Kirim Masukan"
+  },
+  "privacy": {
+    "title": "Kebijakan Privasi",
+    "subtitle": "Aplikasi mobile Al-Nur Journey",
+    "effectiveDateLabel": "Berlaku sejak:",
+    "effectiveDate": "[EFFECTIVE DATE]",
+    "lastUpdatedLabel": "Terakhir diperbarui:",
+    "lastUpdated": "[LAST UPDATED DATE]",
+    "intro": "[COMPANY NAME] (\"kami\") mengoperasikan aplikasi mobile Al-Nur Journey (\"Aplikasi\"). Kebijakan Privasi ini menjelaskan informasi apa saja yang kami kumpulkan, bagaimana kami menggunakannya, dan pilihan yang Anda miliki. Dengan menggunakan Aplikasi ini, Anda menyetujui pengumpulan dan penggunaan informasi sesuai dengan kebijakan ini.",
+    "sections": {
+      "collect": {
+        "heading": "Informasi yang Kami Kumpulkan",
+        "intro": "Kami mengumpulkan kategori informasi berikut:",
+        "table": {
+          "headers": ["Kategori", "Contoh", "Sumber"],
+          "rows": [
+            ["Data akun & profil", "Nama, alamat email, foto profil, identitas autentikasi", "Diberikan oleh Anda, atau melalui penyedia login pilihan Anda (Google, Apple, Facebook, atau email/kata sandi)"],
+            ["Konten pengguna", "Postingan dan komentar komunitas, doa favorit/tersimpan dan penanda Al-Qur'an, riwayat tasbih (penghitung dzikir), preferensi shalat dan bacaan", "Dibuat oleh Anda di dalam Aplikasi"],
+            ["Data lokasi", "Lokasi perangkat perkiraan atau presisi", "Dikumpulkan dengan izin Anda, digunakan untuk menghitung waktu shalat dan arah kiblat secara akurat"],
+            ["Data sensor perangkat", "Data kompas/orientasi", "Digunakan secara lokal di perangkat Anda untuk fitur kompas kiblat"],
+            ["Data notifikasi", "Token notifikasi push (perangkat)", "Dihasilkan oleh perangkat Anda untuk mengirimkan notifikasi waktu shalat dan pengingat"],
+            ["Data penggunaan & analitik", "Fitur yang digunakan, layar yang dilihat, interaksi dalam aplikasi, informasi perangkat umum (model, versi OS)", "Dikumpulkan secara otomatis melalui alat analitik"],
+            ["Data diagnostik", "Laporan crash dan log error", "Dikumpulkan secara otomatis untuk membantu kami memperbaiki bug dan meningkatkan stabilitas"],
+            ["Data tersimpan lokal", "Progres bacaan, pengaturan aplikasi, konten cache", "Disimpan di perangkat Anda agar Aplikasi dapat berfungsi secara offline"]
+          ]
+        }
+      },
+      "use": {
+        "heading": "Bagaimana Kami Menggunakan Informasi Anda",
+        "list": [
+          "Untuk menyediakan fitur inti: bacaan Al-Qur'an, perhitungan waktu shalat, arah kiblat, doa-doa, penghitung tasbih, dan diskusi komunitas.",
+          "Untuk membuat dan mengelola akun Anda, serta menyinkronkan preferensi dan konten Anda di berbagai perangkat.",
+          "Untuk mengirimkan pengingat waktu shalat dan notifikasi lain yang Anda aktifkan.",
+          "Untuk memahami cara Aplikasi digunakan, agar kami dapat meningkatkan fitur dan memperbaiki masalah.",
+          "Untuk mendeteksi, menyelidiki, dan mencegah aktivitas yang curang, menyalahgunakan, atau melanggar hukum, serta menjaga keamanan fitur komunitas.",
+          "Untuk berkomunikasi dengan Anda mengenai pembaruan, permintaan dukungan, atau perubahan pada kebijakan ini."
+        ]
+      },
+      "share": {
+        "heading": "Bagaimana Kami Membagikan Informasi Anda",
+        "intro": "Kami tidak menjual informasi pribadi Anda. Kami dapat membagikan informasi dengan:",
+        "list": [
+          "Penyedia layanan yang membantu kami mengoperasikan Aplikasi, termasuk autentikasi, hosting basis data/backend, penyimpanan cloud, notifikasi push, analitik, dan penyedia pelaporan crash (seperti Google Firebase dan Supabase). Penyedia ini memproses data atas nama kami dan terikat pada kewajiban privasi dan keamanan mereka sendiri.",
+          "Pengguna lain, terbatas pada konten yang Anda pilih untuk diposting secara publik di fitur komunitas (misalnya postingan, komentar, nama tampilan, foto profil).",
+          "Otoritas hukum, jika diwajibkan untuk mematuhi hukum, peraturan, proses hukum, atau permintaan pemerintah yang berlaku.",
+          "Entitas penerus, sehubungan dengan merger, akuisisi, atau penjualan aset, dengan tetap tunduk pada kebijakan ini atau kebijakan yang secara material serupa."
+        ]
+      },
+      "security": {
+        "heading": "Penyimpanan dan Keamanan Data",
+        "body": "Data Anda disimpan menggunakan penyedia infrastruktur cloud pihak ketiga yang terpercaya dan, jika berlaku, secara lokal di perangkat Anda. Kami menerapkan langkah-langkah pengamanan teknis dan organisasi yang wajar — termasuk enkripsi data sensitif jika diperlukan — untuk melindungi informasi Anda. Namun, tidak ada metode transmisi atau penyimpanan yang 100% aman, dan kami tidak dapat menjamin keamanan mutlak."
+      },
+      "choices": {
+        "heading": "Pilihan dan Hak Anda",
+        "list": [
+          "Izin akses: Anda dapat memberikan atau mencabut izin lokasi, notifikasi, dan izin perangkat lainnya kapan saja melalui pengaturan perangkat Anda. Beberapa fitur (misalnya waktu shalat yang akurat, arah kiblat) mungkin tidak berfungsi dengan baik tanpa izin yang relevan.",
+          "Notifikasi: Anda dapat menonaktifkan pengingat shalat dan notifikasi lainnya melalui pengaturan Aplikasi atau pengaturan sistem perangkat Anda.",
+          "Akses dan koreksi: Anda dapat meninjau dan memperbarui informasi profil Anda di dalam Aplikasi.",
+          "Penghapusan: Anda dapat meminta penghapusan akun dan data pribadi terkait dengan menghubungi kami melalui detail di bawah ini.",
+          "Konten komunitas: Anda dapat menghapus konten yang telah Anda posting di fitur komunitas kapan saja; perlu diketahui bahwa pengguna lain mungkin telah melihat atau membagikannya sebelum dihapus."
+        ]
+      },
+      "retention": {
+        "heading": "Retensi Data",
+        "body": "Kami menyimpan informasi pribadi selama akun Anda aktif atau selama diperlukan untuk menyediakan fitur Aplikasi. Kami dapat menyimpan dan menggunakan informasi tertentu sebagaimana diperlukan untuk mematuhi kewajiban hukum, menyelesaikan sengketa, dan menegakkan perjanjian kami, setelah itu data akan dihapus atau dianonimkan."
+      },
+      "children": {
+        "heading": "Privasi Anak",
+        "body": "Aplikasi ini ditujukan untuk khalayak umum dan cocok digunakan oleh keluarga. Kami tidak dengan sengaja mengumpulkan informasi pribadi dari anak-anak tanpa persetujuan orang tua yang sesuai. Jika Anda meyakini seorang anak telah memberikan informasi pribadi kepada kami tanpa persetujuan tersebut, silakan hubungi kami agar kami dapat mengambil tindakan yang sesuai."
+      },
+      "transfers": {
+        "heading": "Transfer Data Internasional",
+        "body": "Informasi Anda dapat ditransfer ke, disimpan, dan diproses di negara lain selain negara Anda, termasuk negara tempat penyedia layanan kami beroperasi. Kami mengambil langkah-langkah untuk memastikan bahwa transfer tersebut tunduk pada perlindungan yang sesuai dengan hukum perlindungan data yang berlaku."
+      },
+      "changes": {
+        "heading": "Perubahan pada Kebijakan Ini",
+        "body": "Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Jika kami melakukan perubahan material, kami akan memberi tahu Anda dengan memperbarui tanggal \"Terakhir diperbarui\" di atas dan, jika sesuai, melalui pemberitahuan dalam aplikasi. Kami mendorong Anda untuk meninjau kebijakan ini secara berkala."
+      },
+      "contact": {
+        "heading": "Hubungi Kami",
+        "intro": "Jika Anda memiliki pertanyaan, keluhan, atau permintaan terkait Kebijakan Privasi ini atau informasi pribadi Anda, silakan hubungi kami:",
+        "email": "Email:",
+        "address": "Alamat:"
+      }
+    },
+    "footerNote": "Dokumen ini berisi kolom placeholder yang ditandai dengan tanda kurung — ganti dengan detail organisasi Anda yang sebenarnya sebelum dipublikasikan."
+  },
+  "feedback": {
+    "title": "Masukan",
+    "subtitle": "Kami ingin mendengar pendapat Anda tentang Al-Nur Journey.",
+    "nameLabel": "Nama (opsional)",
+    "namePlaceholder": "Nama Anda",
+    "emailLabel": "Email (opsional)",
+    "emailPlaceholder": "anda{'@'}contoh.com",
+    "emailHint": "Cantumkan email Anda jika ingin kami menindaklanjuti.",
+    "categoryLabel": "Kategori",
+    "categoryOptions": {
+      "bug": "Laporan bug",
+      "feature": "Permintaan fitur",
+      "general": "Masukan umum"
+    },
+    "messageLabel": "Pesan",
+    "messagePlaceholder": "Sampaikan apa yang ada di pikiran Anda...",
+    "submit": "Kirim Masukan",
+    "submitting": "Mengirim...",
+    "successTitle": "Terima kasih!",
+    "successBody": "Masukan Anda telah terkirim. Kami menghargai waktu yang Anda luangkan untuk membantu kami menjadi lebih baik.",
+    "sendAnother": "Kirim tanggapan lain",
+    "errorTitle": "Terjadi kesalahan",
+    "errorBody": "Kami tidak dapat mengirim masukan Anda saat ini. Silakan coba lagi sebentar lagi.",
+    "validationMessage": "Silakan isi pesan sebelum mengirim."
+  }
+}
