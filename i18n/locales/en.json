@@ -4,23 +4,23 @@
     "feedback": "Feedback"
   },
   "footer": {
-    "copyright": "© {year} Al-Nur Journey. All rights reserved."
+    "copyright": "© 2026 An-Nur Journey. All rights reserved."
   },
   "home": {
-    "title": "Al-Nur Journey",
+    "title": "An-Nur Journey",
     "tagline": "Your companion for Quran reading and prayer times.",
-    "description": "Al-Nur Journey helps you read the Quran, track prayer times, find the Qibla direction, browse duas, and connect with a community of fellow Muslims — all in one app.",
+    "description": "An-Nur Journey helps you read the Quran, track prayer times, find the Qibla direction, browse duas, and connect with a community of fellow Muslims — all in one app.",
     "privacyCta": "Read our Privacy Policy",
     "feedbackCta": "Send us Feedback"
   },
   "privacy": {
     "title": "Privacy Policy",
-    "subtitle": "Al-Nur Journey mobile application",
+    "subtitle": "An-Nur Journey mobile application",
     "effectiveDateLabel": "Effective date:",
-    "effectiveDate": "[EFFECTIVE DATE]",
+    "effectiveDate": "16 September 2026",
     "lastUpdatedLabel": "Last updated:",
-    "lastUpdated": "[LAST UPDATED DATE]",
-    "intro": "[COMPANY NAME] (\"we\", \"us\", or \"our\") operates the Al-Nur Journey mobile application (the \"App\"). This Privacy Policy explains what information we collect, how we use it, and the choices you have. By using the App, you agree to the collection and use of information in accordance with this policy.",
+    "lastUpdated": "16 September 2026",
+    "intro": "Hupernex (\"we\", \"us\", or \"our\") operates the An-Nur Journey mobile application (the \"App\"). This Privacy Policy explains what information we collect, how we use it, and the choices you have. By using the App, you agree to the collection and use of information in accordance with this policy.",
     "sections": {
       "collect": {
         "heading": "Information We Collect",
@@ -101,7 +101,7 @@
   },
   "feedback": {
     "title": "Feedback",
-    "subtitle": "We'd love to hear what you think of Al-Nur Journey.",
+    "subtitle": "We'd love to hear what you think of An-Nur Journey.",
     "nameLabel": "Name (optional)",
     "namePlaceholder": "Your name",
     "emailLabel": "Email (optional)",

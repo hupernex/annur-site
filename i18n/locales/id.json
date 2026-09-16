@@ -4,23 +4,23 @@
     "feedback": "Masukan"
   },
   "footer": {
-    "copyright": "© {year} Al-Nur Journey. Seluruh hak cipta dilindungi."
+    "copyright": "© {year} An-Nur Journey. Seluruh hak cipta dilindungi."
   },
   "home": {
-    "title": "Al-Nur Journey",
+    "title": "An-Nur Journey",
     "tagline": "Teman Anda untuk membaca Al-Qur'an dan waktu shalat.",
-    "description": "Al-Nur Journey membantu Anda membaca Al-Qur'an, memantau waktu shalat, menemukan arah kiblat, menjelajahi doa-doa, dan terhubung dengan komunitas sesama Muslim — semuanya dalam satu aplikasi.",
+    "description": "An-Nur Journey membantu Anda membaca Al-Qur'an, memantau waktu shalat, menemukan arah kiblat, menjelajahi doa-doa, dan terhubung dengan komunitas sesama Muslim — semuanya dalam satu aplikasi.",
     "privacyCta": "Baca Kebijakan Privasi kami",
     "feedbackCta": "Kirim Masukan"
   },
   "privacy": {
     "title": "Kebijakan Privasi",
-    "subtitle": "Aplikasi mobile Al-Nur Journey",
+    "subtitle": "Aplikasi mobile An-Nur Journey",
     "effectiveDateLabel": "Berlaku sejak:",
-    "effectiveDate": "[EFFECTIVE DATE]",
+    "effectiveDate": "16 September 2026",
     "lastUpdatedLabel": "Terakhir diperbarui:",
-    "lastUpdated": "[LAST UPDATED DATE]",
-    "intro": "[COMPANY NAME] (\"kami\") mengoperasikan aplikasi mobile Al-Nur Journey (\"Aplikasi\"). Kebijakan Privasi ini menjelaskan informasi apa saja yang kami kumpulkan, bagaimana kami menggunakannya, dan pilihan yang Anda miliki. Dengan menggunakan Aplikasi ini, Anda menyetujui pengumpulan dan penggunaan informasi sesuai dengan kebijakan ini.",
+    "lastUpdated": "16 September 2026",
+    "intro": "Hupernex (\"kami\") mengoperasikan aplikasi mobile An-Nur Journey (\"Aplikasi\"). Kebijakan Privasi ini menjelaskan informasi apa saja yang kami kumpulkan, bagaimana kami menggunakannya, dan pilihan yang Anda miliki. Dengan menggunakan Aplikasi ini, Anda menyetujui pengumpulan dan penggunaan informasi sesuai dengan kebijakan ini.",
     "sections": {
       "collect": {
         "heading": "Informasi yang Kami Kumpulkan",
@@ -101,7 +101,7 @@
   },
   "feedback": {
     "title": "Masukan",
-    "subtitle": "Kami ingin mendengar pendapat Anda tentang Al-Nur Journey.",
+    "subtitle": "Kami ingin mendengar pendapat Anda tentang An-Nur Journey.",
     "nameLabel": "Nama (opsional)",
     "namePlaceholder": "Nama Anda",
     "emailLabel": "Email (opsional)",

@@ -22,7 +22,7 @@ function toggleLocale(target: 'en' | 'id') {
     <header class="site-header">
       <NuxtLink to="/" class="brand">
         <span class="brand-icon" aria-hidden="true">☾</span>
-        <span class="brand-name">Al-Nur Journey</span>
+        <span class="brand-name">An-Nur Journey</span>
       </NuxtLink>
 
       <nav class="site-nav">
