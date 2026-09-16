@@ -41,23 +41,21 @@
       },
       "use": {
         "heading": "Bagaimana Kami Menggunakan Informasi Anda",
+        "intro": "Kami menggunakan informasi yang kami kumpulkan untuk tujuan berikut:",
         "list": [
-          "Untuk menyediakan fitur inti: bacaan Al-Qur'an, perhitungan waktu shalat, arah kiblat, doa-doa, penghitung tasbih, dan diskusi komunitas.",
-          "Untuk membuat dan mengelola akun Anda, serta menyinkronkan preferensi dan konten Anda di berbagai perangkat.",
-          "Untuk mengirimkan pengingat waktu shalat dan notifikasi lain yang Anda aktifkan.",
-          "Untuk memahami cara Aplikasi digunakan, agar kami dapat meningkatkan fitur dan memperbaiki masalah.",
-          "Untuk mendeteksi, menyelidiki, dan mencegah aktivitas yang curang, menyalahgunakan, atau melanggar hukum, serta menjaga keamanan fitur komunitas.",
-          "Untuk berkomunikasi dengan Anda mengenai pembaruan, permintaan dukungan, atau perubahan pada kebijakan ini."
+          "Menyediakan dan Memelihara Aplikasi: Untuk menghadirkan fitur inti seperti waktu shalat yang akurat, arah kiblat, dan progres bacaan offline.",
+          "Personalisasi & Konten Pengguna: Untuk menyimpan preferensi, penanda, doa favorit, riwayat tasbih, dan detail profil Anda demi pengalaman yang lancar.",
+          "Notifikasi: Untuk mengirimkan jadwal waktu shalat dan pengingat menggunakan token perangkat Anda.",
+          "Analitik & Peningkatan: Untuk memahami bagaimana pengguna berinteraksi dengan Aplikasi, menganalisis laporan crash, memperbaiki bug, dan meningkatkan performa serta stabilitas secara keseluruhan."
         ]
       },
       "share": {
         "heading": "Bagaimana Kami Membagikan Informasi Anda",
-        "intro": "Kami tidak menjual informasi pribadi Anda. Kami dapat membagikan informasi dengan:",
+        "intro": "Kami tidak menjual informasi pribadi Anda. Kami dapat membagikan informasi dengan pihak ketiga terpercaya dengan kerahasiaan yang ketat, termasuk:",
         "list": [
-          "Penyedia layanan yang membantu kami mengoperasikan Aplikasi, termasuk autentikasi, hosting basis data/backend, penyimpanan cloud, notifikasi push, analitik, dan penyedia pelaporan crash (seperti Google Firebase dan Supabase). Penyedia ini memproses data atas nama kami dan terikat pada kewajiban privasi dan keamanan mereka sendiri.",
-          "Pengguna lain, terbatas pada konten yang Anda pilih untuk diposting secara publik di fitur komunitas (misalnya postingan, komentar, nama tampilan, foto profil).",
-          "Otoritas hukum, jika diwajibkan untuk mematuhi hukum, peraturan, proses hukum, atau permintaan pemerintah yang berlaku.",
-          "Entitas penerus, sehubungan dengan merger, akuisisi, atau penjualan aset, dengan tetap tunduk pada kebijakan ini atau kebijakan yang secara material serupa."
+          "Penyedia Analitik: Seperti Google Analytics, untuk membantu kami memahami tren penggunaan aplikasi dan meningkatkan pengalaman pengguna.",
+          "Infrastruktur Cloud & Penyedia Layanan: Layanan hosting dan backend pihak ketiga yang terpercaya, yang mendukung operasional dan keamanan Aplikasi.",
+          "Persyaratan Hukum: Jika diwajibkan oleh hukum, peraturan, atau proses hukum untuk melindungi hak, keselamatan kami, atau keselamatan orang lain."
         ]
       },
       "security": {
@@ -66,12 +64,10 @@
       },
       "choices": {
         "heading": "Pilihan dan Hak Anda",
+        "intro": "Anda memiliki pilihan terkait informasi yang Anda berikan:",
         "list": [
-          "Izin akses: Anda dapat memberikan atau mencabut izin lokasi, notifikasi, dan izin perangkat lainnya kapan saja melalui pengaturan perangkat Anda. Beberapa fitur (misalnya waktu shalat yang akurat, arah kiblat) mungkin tidak berfungsi dengan baik tanpa izin yang relevan.",
-          "Notifikasi: Anda dapat menonaktifkan pengingat shalat dan notifikasi lainnya melalui pengaturan Aplikasi atau pengaturan sistem perangkat Anda.",
-          "Akses dan koreksi: Anda dapat meninjau dan memperbarui informasi profil Anda di dalam Aplikasi.",
-          "Penghapusan: Anda dapat meminta penghapusan akun dan data pribadi terkait dengan menghubungi kami melalui detail di bawah ini.",
-          "Konten komunitas: Anda dapat menghapus konten yang telah Anda posting di fitur komunitas kapan saja; perlu diketahui bahwa pengguna lain mungkin telah melihat atau membagikannya sebelum dihapus."
+          "Izin Perangkat: Anda dapat menolak atau mencabut izin seperti data lokasi atau notifikasi melalui pengaturan perangkat Anda. Perlu diperhatikan bahwa menonaktifkan izin tertentu (seperti data lokasi) dapat membatasi atau menonaktifkan kemampuan aplikasi tertentu (seperti menghitung waktu shalat yang akurat atau arah kiblat).",
+          "Data Akun: Anda dapat memperbarui atau meminta penghapusan akun dan data terkait dengan menghubungi kami secara langsung."
         ]
       },
       "retention": {

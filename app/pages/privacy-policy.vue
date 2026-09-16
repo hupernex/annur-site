@@ -39,10 +39,10 @@ function tableRows(key: string) {
 
       <p class="effective-date">
         {{ t('privacy.effectiveDateLabel') }}
-        <span class="placeholder">{{ t('privacy.effectiveDate') }}</span>
+        {{ t('privacy.effectiveDate') }}
         &nbsp;·&nbsp;
         {{ t('privacy.lastUpdatedLabel') }}
-        <span class="placeholder">{{ t('privacy.lastUpdated') }}</span>
+        {{ t('privacy.lastUpdated') }}
       </p>
 
       <p>{{ t('privacy.intro') }}</p>
@@ -71,12 +71,12 @@ function tableRows(key: string) {
           </table>
         </div>
 
-        <ul v-if="te(`privacy.sections.${key}.list`)">
+        <ul v-if="sectionList(key).length">
           <li v-for="(item, itemIndex) in sectionList(key)" :key="itemIndex">{{ rt(item) }}</li>
         </ul>
 
         <ul v-if="key === 'contact'">
-          <li>{{ t('privacy.sections.contact.email') }} <span class="placeholder">hupernex@gmail.com</span></li>
+          <li>{{ t('privacy.sections.contact.email') }} hupernex@gmail.com</li>
         </ul>
       </template>
 

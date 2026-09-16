@@ -41,23 +41,21 @@
       },
       "use": {
         "heading": "How We Use Your Information",
+        "intro": "We use the information we collect for the following purposes:",
         "list": [
-          "To provide core features: Quran reading, prayer time calculation, Qibla direction, duas, tasbih counter, and community discussions.",
-          "To create and manage your account, and sync your preferences and content across devices.",
-          "To send prayer time reminders and other notifications you have enabled.",
-          "To understand how the App is used, so we can improve features and fix issues.",
-          "To detect, investigate, and prevent fraudulent, abusive, or unlawful activity, and to keep the community features safe.",
-          "To communicate with you about updates, support requests, or changes to this policy."
+          "To Provide and Maintain the App: To deliver core features such as accurate prayer times, Qibla direction, and offline reading progress.",
+          "Personalization & User Content: To save your preferences, bookmarks, favorite duas, tasbih history, and profile details for a seamless experience.",
+          "Notifications: To send you scheduled prayer times and reminders using your device token.",
+          "Analytics & Improvement: To understand how users interact with the App, analyze crash reports, fix bugs, and improve overall performance and stability."
         ]
       },
       "share": {
         "heading": "How We Share Your Information",
-        "intro": "We do not sell your personal information. We may share information with:",
+        "intro": "We do not sell your personal information. We may share information with trusted third parties under strict confidentiality, including:",
         "list": [
-          "Service providers that help us operate the App, including authentication, database/backend hosting, cloud storage, push notifications, analytics, and crash-reporting providers (such as Google Firebase and Supabase). These providers process data on our behalf and are bound by their own privacy and security obligations.",
-          "Other users, limited to content you choose to post publicly in community features (e.g. posts, comments, display name, profile photo).",
-          "Legal authorities, where required to comply with applicable law, regulation, legal process, or governmental request.",
-          "A successor entity, in connection with a merger, acquisition, or sale of assets, subject to this policy or a materially similar one."
+          "Analytics Providers: Such as Google Analytics, to help us understand app usage trends and improve user experience.",
+          "Cloud Infrastructure & Service Providers: Reputable third-party hosting and backend services that support the operation and security of the App.",
+          "Legal Requirements: If required by law, regulation, or legal process to protect our rights, safety, or the safety of others."
         ]
       },
       "security": {
@@ -66,12 +64,10 @@
       },
       "choices": {
         "heading": "Your Choices and Rights",
+        "intro": "You have choices regarding the information you provide:",
         "list": [
-          "Permissions: You can grant or revoke location, notification, and other device permissions at any time through your device settings. Some features (e.g. accurate prayer times, Qibla direction) may not work correctly without the relevant permission.",
-          "Notifications: You can disable prayer reminders and other notifications in the App's settings or your device's system settings.",
-          "Access and correction: You can review and update your profile information within the App.",
-          "Deletion: You may request deletion of your account and associated personal data by contacting us using the details below.",
-          "Community content: You may delete content you have posted in community features at any time; be aware that others may have viewed or shared it before deletion."
+          "Device Permissions: You can deny or revoke permissions such as location data or notifications through your device settings. Please note that disabling certain permissions (such as location data) may limit or disable specific app capabilities (such as calculating accurate prayer times or Qibla direction).",
+          "Account Data: You can update or request the deletion of your account and associated data by contacting us directly."
         ]
       },
       "retention": {
