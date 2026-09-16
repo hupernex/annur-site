@@ -12,8 +12,9 @@ export default defineNuxtConfig({
   },
 
   app: {
+    baseURL: '/annur-site/',
     head: {
-      link: [{ rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }],
+      link: [{ rel: 'icon', type: 'image/svg+xml', href: '/annur-site/favicon.svg' }],
     },
   },
 
