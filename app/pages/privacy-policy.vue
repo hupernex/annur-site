@@ -76,8 +76,7 @@ function tableRows(key: string) {
         </ul>
 
         <ul v-if="key === 'contact'">
-          <li>{{ t('privacy.sections.contact.email') }} <span class="placeholder">[CONTACT EMAIL]</span></li>
-          <li>{{ t('privacy.sections.contact.address') }} <span class="placeholder">[COMPANY ADDRESS]</span></li>
+          <li>{{ t('privacy.sections.contact.email') }} <span class="placeholder">hupernex@gmail.com</span></li>
         </ul>
       </template>
 
